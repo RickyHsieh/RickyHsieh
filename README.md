@@ -4,7 +4,7 @@
 
 
 Hi, I'm Rick! 
-- a Back-End Developer of web
+- a Back-End Developer
 - a Android Java Developer
  in 🌁 Taiwan. 
 
