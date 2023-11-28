@@ -4,8 +4,7 @@
 
 
 Hi, I'm Ricky! 
-- a Back-End Developer
-- an Android Java Developer
+- a backend Developer
   
 I am now planning to work on some side projects, 
 learning a couple new dishes, 
