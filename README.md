@@ -3,31 +3,31 @@
 ![I m Banner](./banner/imBanner.jpg)
 
 
-Hi, I'm Ricky! 
-- a backend Developer
-  
-I am now planning to work on some side projects, 
-learning a couple new dishes, 
-and trying to travel the world.
+I began my career as a Java developer in 2022. I enjoy learning, thinking, 
+and collaborating with a group of people to create cool stuffs. 
+
+I'm a fan of LeetCode now I'm running into Daily Leetcode Challenge, Trying to attend AtCoder.
+Currently, I'm studying front-end development with React, aiming to become a full-stack developer.
 
 ## Get in Touch
+![Linkedin](https://www.linkedin.com/in/rickyhsieh0302)
 
-
-## 💼 Skills
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-
+## 🛠️ **Building projects with:**
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ebc334)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=Intellij&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GithubAction-informational?style=Github&logo=Intellij&logoColor=white&color=4AB197)
 <details>
-<summary>More Skills</summary>
+<summary>More</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=Swift&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
 
 </details>
