@@ -10,7 +10,7 @@ I'm a fan of LeetCode now I'm running into Daily Leetcode Challenge, Trying to a
 Currently, I'm studying front-end development with React, aiming to become a full-stack developer.
 
 ## Get in Touch
-![Linkedin](https://www.linkedin.com/in/rickyhsieh0302)
+![Linkedin](https://linkedin.com/in/rickyhsieh0302/)
 
 ## 🛠️ **Building projects with:**
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ebc334)
