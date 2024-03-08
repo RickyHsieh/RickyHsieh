@@ -31,8 +31,13 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
 
 </details>
-
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="Ricky's LeetCode Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats" width="450"/>
+<div style="display: flex;">
+  <div style="display: flex; flex-direction: column;">
+    <img src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="Ricky's LeetCode Stats" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats" width="450"/>
+  </div>
+  <div>
+  
+    <!-- 例如: <img src="your-image-url" alt="Description" width="450"/> -->
+  </div>
 </div>
