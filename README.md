@@ -31,5 +31,10 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
 
 </details>
-<br>
-[LeetCode Stats](https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap)
+
+<p align="center">
+  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+    <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap" />
+  </a>
+</p>
+
