@@ -34,7 +34,7 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 
 <p align="center">
   <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap" />
+    <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" />
   </a>
 </p>
 
