@@ -31,4 +31,5 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 ![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
 
 </details>
-<br>[![Leetcode Stats](https://leetcard.jacoblin.cool/ricky_hsieh)](https://leetcode.com/ricky_hsieh/)
+<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap)
