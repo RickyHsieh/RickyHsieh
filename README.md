@@ -32,4 +32,4 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 
 </details>
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap)
+[LeetCode Stats](https://leetcard.jacoblin.cool/ricky_hsieh?theme=wtf&font=Antic&ext=heatmap)
