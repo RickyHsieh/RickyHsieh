@@ -33,7 +33,7 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 </details>
 
 <div style="display: flex; justify-content: center;">
-  <p style="margin-right: 10px; width: 40%;">
+  <p style="margin-right: 10px; width: 60%;">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
       <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" height="200px"/>
     </a>
