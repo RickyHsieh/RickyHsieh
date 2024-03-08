@@ -35,6 +35,6 @@ Currently, I'm studying front-end development with React, aiming to become a ful
   <div style="display: flex; flex-direction: column;">
     <img style="border: 5px solid yellow;margin-bottom: 20px;" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Moon%20Dance&ext=heatmap" alt="Ricky's LeetCode Stats" width="450"/>
     <br>
-    <img style="border: 5px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats" width="450"/>
+    <img style="border: 5px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh&theme=outrun" alt="Ricky's GitHub Stats" width="450"/>
   </div>
 </div>
