@@ -36,6 +36,5 @@ Currently, I'm studying front-end development with React, aiming to become a ful
     <img style="border: 5px solid yellow;margin-bottom: 20px;" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Moon%20Dance&ext=heatmap" alt="Ricky's LeetCode Stats" width="450"/>
     <br>
     <img style="border: 5px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh&show_icons=true&border_color=grey&theme=neon#gh-dark-mode-only" alt="Ricky's GitHub Stats" width="450"/>
-    <img style="border: 5px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh&show_icons=true&border_color=grey&theme=default#gh-light-mode-only" alt="Ricky's GitHub Stats" width="450"/>
   </div>
 </div>
