@@ -34,6 +34,6 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" alt="Ricky's LeetCode Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats" height=""320/>
 </p>
 
