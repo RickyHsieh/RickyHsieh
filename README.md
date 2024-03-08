@@ -35,13 +35,14 @@ Currently, I'm studying front-end development with React, aiming to become a ful
 <div style="display: flex; justify-content: center;">
   <p style="margin-right: 10px; width: 50%;">
     <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-      <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" height="200px"/>
+      <img title="Ricky's LeetCode Stats" alt="Ricky's LeetCode Stats" src="https://leetcard.jacoblin.cool/ricky_hsieh?theme=dark&font=Roboto%20Mono&ext=heatmap" height="300px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+      <img title="Ricky's github Stats" alt="Ricky's github Stats" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" height="300"/>
     </a>
   </p>
   <p style="margin-left: 10px; width: 50%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img title="Ricky's github Stats" alt="Ricky's github Stats" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" height="200"/>
-    </a>
+    
   </p>
 </div>
 
