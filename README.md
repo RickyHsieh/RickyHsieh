@@ -37,8 +37,4 @@ Currently, I'm studying front-end development with React, aiming to become a ful
     <br>
     <img style="border: 5px solid yellow;" src="https://github-readme-stats.vercel.app/api?username=RickyHsieh" alt="Ricky's GitHub Stats" width="450"/>
   </div>
-  <div>
-  
-    <!-- 例如: <img src="your-image-url" alt="Description" width="450"/> -->
-  </div>
 </div>
