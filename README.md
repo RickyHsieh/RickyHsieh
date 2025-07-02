@@ -2,14 +2,21 @@
 
 ![I m Banner](./banner/imBanner.jpg)
 
+I began my software development career in 2021, working primarily with Java, Kotlin, and Swift across backend, Android, and iOS projects.
+I'm passionate about learning, solving problems, and collaborating with others to build meaningful products.
 
-I began my career as a Java developer in 2022. I enjoy learning, thinking, 
-and collaborating with a group of people to create cool stuffs. 
+Currently, I'm tackling daily LeetCode challenges and preparing for AtCoder to sharpen my algorithmic thinking. Aiming to become a full-stack developer.
+Outside of coding, I'm a music lover who plays the cello, guitar, and piano — and I enjoy playing ice hockey in my free time.
 
-I'm a fan of LeetCode now I'm running into Daily Leetcode Challenge, Trying to attend AtCoder.
-Currently, I'm studying front-end development with React, aiming to become a full-stack developer.
+Oh, and if you know a way to join a local hockey team — please please please let me know! 🏒
+I'm still learning, but I’m super passionate and always up for practice or games.
+I recently play with juinor team in Taipei
+
+(P.S. I occasionally let AI help me write some iOS code 😉)
+
 
 ## Get in Touch
+
 [LinkedIn](https://linkedin.com/in/rickyhsieh0302/)
 
 ## 🛠️ **Building projects with:**
