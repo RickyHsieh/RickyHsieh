@@ -1,7 +1,5 @@
 ## Hello, World ! 
 
-![I m Banner](./banner/imBanner.jpg)
-
 I began my software development career in 2021, working primarily with Java, Kotlin, and Swift across backend, Android, and iOS projects.
 I'm passionate about learning, solving problems, and collaborating with others to build meaningful products.
 
