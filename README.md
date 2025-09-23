@@ -1,6 +1,6 @@
 ## Hello, World ! 
 
-I began my software development career in 2021, working primarily with Java, Kotlin, and Swift across backend, Android, and iOS projects.
+Working primarily with Java, Kotlin, and Swift across backend, Android, and iOS projects.
 I'm passionate about learning, solving problems, and collaborating with others to build meaningful products.
 
 Currently, I'm tackling daily LeetCode challenges and preparing for AtCoder to sharpen my algorithmic thinking. Aiming to become a full-stack developer.
@@ -9,8 +9,6 @@ Outside of coding, I'm a music lover who plays the cello, guitar, and piano — 
 Oh, and if you know a way to join a local hockey team — please please please let me know! 🏒
 I'm still learning, but I’m super passionate and always up for practice or games.
 I recently play with juinor team in Taipei
-
-(P.S. I occasionally let AI help me write some iOS code 😉)
 
 
 ## Get in Touch
