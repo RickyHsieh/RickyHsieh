@@ -13,24 +13,25 @@ I am an active ice hockey player currently training with a team in Taipei. Wheth
 ## Get in Touch
 
 [LinkedIn](https://linkedin.com/in/rickyhsieh0302/)
+[Ins](https://www.instagram.com/ric_y32/)
 
 ## 🛠️ **Building projects with:**
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ebc334)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Intellij-informational?style=flat&logo=Intellij&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GithubAction-informational?style=Github&logo=Intellij&logoColor=white&color=4AB197)
-<details>
-<summary>More</summary>
-<br>
+### 💻 Languages & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![](https://img.shields.io/badge/Framework-SwiftUI-informational?style=flat&logo=Swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=Go&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=4AB197)
+### 🌐 Frameworks & Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+
+### ⚙️ Tools & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🎨 Creative Coding
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=touchdesigner&logoColor=white)
 
 </details>
 <div style="display: flex;">
