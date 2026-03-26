@@ -13,7 +13,6 @@ I am an active ice hockey player currently training with a team in Taipei. Wheth
 ## Get in Touch
 
 [LinkedIn](https://linkedin.com/in/rickyhsieh0302/)
-[Ins](https://www.instagram.com/ric_y32/)
 
 ## 🛠️ **Building projects with:**
 ### 💻 Languages & Core
